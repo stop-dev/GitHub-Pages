@@ -1,4 +1,4 @@
-![](/img/Скриншот-29-07-2024%2013_43_22.png)  
+![](https://raw.githubusercontent.com/stop-dev/GitHub-Pages/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82-29-07-2024%2013_43_22.png)  
 
 # Stolbova Margarita Olegovna
  _Backend developer, Python_  
